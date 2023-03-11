@@ -10,8 +10,6 @@
 
 ## 🏆스터디 교재
 <img width="200px" src="https://image.aladin.co.kr/product/24788/21/cover500/k342631735_1.jpg">  
-<br>
-<br>
 
 ## 🛠 Github 관리
 ### [forking workflow](https://velog.io/@hyowon_lee/Git-GitHub%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-Forking-Workflow)
