@@ -5,7 +5,7 @@
 | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |   <img width="160px" src="https://avatars.githubusercontent.com/u/109403631?v=4" /> | <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/62207913?v=4"/> |<img width="160px" src="https://avatars.githubusercontent.com/u/66792515?v=4">|<img width="160px" src="https://avatars.githubusercontent.com/u/89768010?v=4">
 | [@Junobee25](https://github.com/Junobee25)   |  [@jisoo29](https://github.com/jisoo29)  | [@jhsy0429](https://github.com/jhsy0429)  |[@kimseongho3077](https://github.com/kimseongho3077)|[@GilWonLee](https://github.com/ROADwon)
-| AI Track 전남전북9반 | AI Track 전남전북9반  | AI Track 전남전북9반  |  AI Track 전남전북9반|  AI Track 전남전북9반 |
+| AI Track 블라인드 | AI Track 블라인드  | AI Track 블라인드  |  AI Track 블라인드|  AI Track 블라인드 |
 <!-- <div align="center"> -->
 
 ## 🏆스터디 교재
