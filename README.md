@@ -1,11 +1,11 @@
 # KT-AlgorithmStudy
 ## 알고리즘 스터디 소개
 
-| XXX | XXX | XXX | XXX | XXX|                                                                                                     
+| 배준오 | 이지수 | 한세린 | 이길원 | 김성호|                                                                                                     
 | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |   <img width="160px" src="https://avatars.githubusercontent.com/u/109403631?v=4" /> | <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/62207913?v=4"/> |<img width="160px" src="https://avatars.githubusercontent.com/u/66792515?v=4">|<img width="160px" src="https://avatars.githubusercontent.com/u/89768010?v=4">
-| [@XXX](https://github.com/Blindnames)   |  [@XXX](https://github.com/jisoo29)  | [@XXX](https://github.com/jhsy0429)  |[@XXX](https://github.com/kimseongho3077)|[@XXX](https://github.com/ROADwon)
-| AI Track 블라인드 | AI Track 블라인드  | AI Track 블라인드  |  AI Track 블라인드|  AI Track 블라인드 |
+| [@배준오](https://github.com/junobee25)   |  [@XXX](https://github.com/jisoo29)  | [@XXX](https://github.com/jhsy0429)  |[@XXX](https://github.com/kimseongho3077)|[@XXX](https://github.com/ROADwon)
+| AI Track 전남/전북 | AI Track 전남/전북  | AI Track 전남/전북  |  AI Track 전남/전북|  AI Track 전남/전북 |
 <!-- <div align="center"> -->
 
 ## 🏆스터디 교재
